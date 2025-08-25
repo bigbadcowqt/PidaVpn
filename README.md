@@ -1,2 +1,1 @@
-# PidaVpn
-for kako Nemat
+# PidaVpn App
